@@ -40,3 +40,5 @@ private static void Button_Click(object sender, EventArgs e)
     ccp.Value += 2.5F;
 }
 ```
+
+Go to the wiki page for a complete usage
